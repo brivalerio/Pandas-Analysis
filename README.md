@@ -6,7 +6,12 @@ For this exercise, we have a new job as Lead Analyst for an independent gaming c
 <br/>
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like a report generated that breaks down the game's purchasing data into meaningful insights.<br/>
 <br/>
-The final report includes:<br/>
+**Observable Trends**<br/>
+-84% of the players are male and have spent the most at $1,967.64 (652 purchases), with an average purchase price of $3.02. Female players only account for 14.06% of players however their average purchase price is higher at $3.20.<br/> 
+-Persons between the ages of 20 & 24 account for 44.79% of the player base.  They've purchased 365 items with a total value of $1,114.06, which is more than double the value of the second highest group. The second highest is the 15 to 19 age group at 18.58% of the base.  This group has 136 purchases valued at $412.89 combined.<br/>
+-The most purchased, and most profitable, item is the "Oathbreaker, Last Hope of the Breaking Storm."  This item has been purchased 12 times at a combined value of $50.76.<br/>
+<br/>
+These observed trends are based on data (found in HeroesOfPymoli folder) that includes:<br/>
 <br/>
 Player Count<br/>
 -Total Number of Players<br/>
